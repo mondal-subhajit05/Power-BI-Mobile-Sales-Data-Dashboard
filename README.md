@@ -28,20 +28,8 @@ This interactive Power BI dashboard presents an in-depth analysis of mobile sale
 - 📆 Total Sales by Day of the Week (Area Chart)
 
 - 🏷️ Brand-Level Metrics: Quantity & Sales
-  ## 🛠️ Tools Used
+## 🛠️ Tools Used
 - **Microsoft Power BI**
-## 📂 Dataset
-You can download the dataset used in this dashboard here:
-
-
-
-
-##  📷 Screenshot
-
-
-
-
-
 
 
 ## 💡 Insights Derived
